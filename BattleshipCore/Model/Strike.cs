@@ -1,0 +1,15 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace BattleshipCore
+{
+    public class Strike
+    {
+        public int CoordinateX { get; set; }
+        public int CoordinateY { get; set; }
+        public int InflictedPlayerId { get; set; }
+    }
+}

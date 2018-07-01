@@ -1,0 +1,5 @@
+C:\Users\marcilio.Roquetto\source\repos\BattleshipCore\BattleshipCore\bin\Release\BattleshipCore.pdb
+C:\Users\marcilio.Roquetto\source\repos\BattleshipCore\BattleshipCore\obj\Release\BattleshipCore.csproj.CoreCompileInputs.cache
+C:\Users\marcilio.Roquetto\source\repos\BattleshipCore\BattleshipCore\obj\Release\BattleshipCore.pdb
+C:\Users\marcilio.Roquetto\source\repos\BattleshipCore\BattleshipCore\bin\Release\BattleshipCore.dll
+C:\Users\marcilio.Roquetto\source\repos\BattleshipCore\BattleshipCore\obj\Release\BattleshipCore.dll

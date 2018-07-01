@@ -1,0 +1,16 @@
+C:\Users\marcilio.Roquetto\source\repos\BattleshipCore\UnitTestBattleshipCore\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\marcilio.Roquetto\source\repos\BattleshipCore\UnitTestBattleshipCore\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\marcilio.Roquetto\source\repos\BattleshipCore\UnitTestBattleshipCore\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\marcilio.Roquetto\source\repos\BattleshipCore\UnitTestBattleshipCore\bin\Debug\UnitTestBattleshipCore.dll
+C:\Users\marcilio.Roquetto\source\repos\BattleshipCore\UnitTestBattleshipCore\bin\Debug\UnitTestBattleshipCore.pdb
+C:\Users\marcilio.Roquetto\source\repos\BattleshipCore\UnitTestBattleshipCore\bin\Debug\BattleshipCore.dll
+C:\Users\marcilio.Roquetto\source\repos\BattleshipCore\UnitTestBattleshipCore\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\marcilio.Roquetto\source\repos\BattleshipCore\UnitTestBattleshipCore\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\marcilio.Roquetto\source\repos\BattleshipCore\UnitTestBattleshipCore\bin\Debug\BattleshipCore.pdb
+C:\Users\marcilio.Roquetto\source\repos\BattleshipCore\UnitTestBattleshipCore\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\marcilio.Roquetto\source\repos\BattleshipCore\UnitTestBattleshipCore\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\marcilio.Roquetto\source\repos\BattleshipCore\UnitTestBattleshipCore\obj\Debug\UnitTestBattleshipCore.csprojAssemblyReference.cache
+C:\Users\marcilio.Roquetto\source\repos\BattleshipCore\UnitTestBattleshipCore\obj\Debug\UnitTestBattleshipCore.csproj.CoreCompileInputs.cache
+C:\Users\marcilio.Roquetto\source\repos\BattleshipCore\UnitTestBattleshipCore\obj\Debug\UnitTestBattleshipCore.csproj.CopyComplete
+C:\Users\marcilio.Roquetto\source\repos\BattleshipCore\UnitTestBattleshipCore\obj\Debug\UnitTestBattleshipCore.dll
+C:\Users\marcilio.Roquetto\source\repos\BattleshipCore\UnitTestBattleshipCore\obj\Debug\UnitTestBattleshipCore.pdb

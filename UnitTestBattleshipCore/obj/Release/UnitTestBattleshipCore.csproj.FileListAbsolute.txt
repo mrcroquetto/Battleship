@@ -1,0 +1,16 @@
+C:\Users\marcilio.Roquetto\source\repos\BattleshipCore\UnitTestBattleshipCore\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\marcilio.Roquetto\source\repos\BattleshipCore\UnitTestBattleshipCore\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\marcilio.Roquetto\source\repos\BattleshipCore\UnitTestBattleshipCore\bin\Release\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\marcilio.Roquetto\source\repos\BattleshipCore\UnitTestBattleshipCore\bin\Release\UnitTestBattleshipCore.dll
+C:\Users\marcilio.Roquetto\source\repos\BattleshipCore\UnitTestBattleshipCore\bin\Release\UnitTestBattleshipCore.pdb
+C:\Users\marcilio.Roquetto\source\repos\BattleshipCore\UnitTestBattleshipCore\bin\Release\BattleshipCore.dll
+C:\Users\marcilio.Roquetto\source\repos\BattleshipCore\UnitTestBattleshipCore\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\marcilio.Roquetto\source\repos\BattleshipCore\UnitTestBattleshipCore\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\marcilio.Roquetto\source\repos\BattleshipCore\UnitTestBattleshipCore\bin\Release\BattleshipCore.pdb
+C:\Users\marcilio.Roquetto\source\repos\BattleshipCore\UnitTestBattleshipCore\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\marcilio.Roquetto\source\repos\BattleshipCore\UnitTestBattleshipCore\bin\Release\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\marcilio.Roquetto\source\repos\BattleshipCore\UnitTestBattleshipCore\obj\Release\UnitTestBattleshipCore.csprojAssemblyReference.cache
+C:\Users\marcilio.Roquetto\source\repos\BattleshipCore\UnitTestBattleshipCore\obj\Release\UnitTestBattleshipCore.csproj.CoreCompileInputs.cache
+C:\Users\marcilio.Roquetto\source\repos\BattleshipCore\UnitTestBattleshipCore\obj\Release\UnitTestBattleshipCore.csproj.CopyComplete
+C:\Users\marcilio.Roquetto\source\repos\BattleshipCore\UnitTestBattleshipCore\obj\Release\UnitTestBattleshipCore.dll
+C:\Users\marcilio.Roquetto\source\repos\BattleshipCore\UnitTestBattleshipCore\obj\Release\UnitTestBattleshipCore.pdb
